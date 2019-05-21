@@ -1,11 +1,12 @@
-![logo](_media/icon.svg)
+![logo](_media/logo.png)
 
-# docsify <small>3.5</small>
+# HCHB UI Framework
 
-> A magical documentation site generator.
+> A framework for creating browser based applications
 
-- Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes
+- Angular Components
+- Material Design
+- Build and Deployment Pipelines
 
-[Get Started](/ReadME.md)
+[Style Guide](/Styles/v2/)
+[Components](/Components/v2/)
