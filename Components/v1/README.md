@@ -1,5 +1,5 @@
 # HCHB UI Framework Components
-### Version 1
+### Version 1 {docsify-ignore}
 
 ## Overview
 
