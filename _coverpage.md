@@ -4,9 +4,9 @@
 
 > A framework for creating browser based applications
 
-- Simple and lightweight (~21kB gzipped)
-- No statically built html files
-- Multiple themes
+- Angular Components
+- Material Design
+- Build and Deployment Pipelines
 
 [Style Guide](/Styles/v2/)
 [Components](/Components/v2/)

@@ -1,17 +1,9 @@
-# Headline Version 1
+# HCHB UI Framework Components
+### Version 1
 
-> An awesome project.
+## Overview
 
->Another line
+This documentation will cover the components avaialalbe for you to use in your Angular projects.
 
-## Some body content
+HCHB projects are based off of the [Angular Material project](https://material.angular.io/).
 
-Body content
-
-### Sub body content
-
-this is my sub body content
-
-[Test document Link](test.md)
-
-<iframe src="https://stackblitz.com/edit/angular?embed=1" height="700" width="800"></iframe>
